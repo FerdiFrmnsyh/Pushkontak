@@ -1,0 +1,52 @@
+{
+  "name": "new-bot",
+  "version": "1.0.0",
+  "description": "New Bot, Baileys in WhatsApp Api Nodejs ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "bot",
+    "WhatsApp",
+    "WhatsAppapi",
+    "api"
+  ],
+  "author": "ArifzynXD",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "npm:baileysv2@^9.0.5",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "awesome-phonenumber": "^2.69.0",
+    "caliph-api": "^0.9.5",
+    "cfonts": "^2.10.0",
+    "chalk": "^4.1.2",
+    "clui": "^0.3.6",
+    "colors": "^1.4.0",
+    "figlet": "^1.5.2",
+    "file-type": "^18.2.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "javascript-obfuscator": "^4.0.0",
+    "jimp": "^0.16.1",
+    "jsdom": "^20.0.0",
+    "lowdb": "^3.0.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34",
+    "mongoose": "^7.0.4",
+    "node-fetch": "2.6.1",
+    "node-webpmux": "^3.1.1",
+    "nodemailer": "^6.8.0",
+    "nodemailer-sendinblue-transport": "^2.0.1",
+    "path": "^0.12.7",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2",
+    "require": "^2.4.20",
+    "similarity": "^1.2.1",
+    "syntax-error": "^1.4.0",
+    "tod-api": "^1.0.5",
+    "yt-search": "^2.10.3"
+  }
+}
