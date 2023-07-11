@@ -7,9 +7,9 @@
  * RonzzYT
  */
 
-global.owner = ["6282322416781"];
-global.ownerName = "Bot";
-global.ownerNomor = "6282322416781";
+global.owner = ["62823504965328"];
+global.ownerName = "Ferdi";
+global.ownerNomor = "62823504965328";
 global.prefa = ["."];
 global.wm = "Bot";
 global.author = "© v1.0.0 (Public)";
